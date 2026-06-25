@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Suraj Patil</h1>
 
 <h3 align="center">
-🚀 Senior DevOps Engineer | AWS | Kubernetes | Terraform | Docker | Linux | CI/CD
+🚀  DevOps Engineer | AWS | Kubernetes | Terraform | Docker | Linux | CI/CD
 </h3>
 
 <p align="center">
@@ -26,11 +26,15 @@
 <img src="https://img.shields.io/github/followers/surajpatl?style=for-the-badge&logo=github"/>
 </p>
 
----
+<br>
 
-## 👨‍💻 About Me
-
-<table>
+<!-- =================================================================================== -->
+<!-- ABOUT ME SECTION -->
+<!-- =================================================================================== -->
+<details open>
+<summary><b><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1&color=00C6FB&width=200&lines=👨‍💻+About+Me"/></b></summary>
+<br>
+<table width="100%">
   <tr>
     <td width="60%" valign="top">
       <p>DevOps Engineer with <b>5+ Years of Professional Experience</b> specializing in automating, scaling, and optimizing cloud infrastructure.</p>
@@ -50,26 +54,50 @@
     </td>
   </tr>
 </table>
+</details>
 
----
+<br>
 
-## 🏅 Career Highlights
+<!-- =================================================================================== -->
+<!-- CAREER HIGHLIGHTS SECTION -->
+<!-- =================================================================================== -->
+<details open>
+<summary><b><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1&color=005BEA&width=250&lines=🏅+Career+Highlights"/></b></summary>
+<br>
+<table width="100%">
+  <tr>
+    <td>✅ <b>5+ Years</b> of Core DevOps & Infrastructure Experience</td>
+  </tr>
+  <tr>
+    <td>✅ Designed & Managed Production-Grade <b>AWS Cloud Environments</b></td>
+  </tr>
+  <tr>
+    <td>✅ Spearheaded End-to-End <b>CI/CD Pipeline Automation</b> reducing deploy times</td>
+  </tr>
+  <tr>
+    <td>✅ Architected & Scaled <b>Kubernetes (EKS)</b> clusters</td>
+  </tr>
+  <tr>
+    <td>✅ Zero-Downtime Infrastructure Migrations using <b>Terraform</b></td>
+  </tr>
+  <tr>
+    <td>✅ Standardized Microservices using Multi-stage <b>Docker Production Images</b></td>
+  </tr>
+  <tr>
+    <td>✅ Promoted Secure-by-Design Implementations using <b>IAM Best Practices</b></td>
+  </tr>
+</table>
+</details>
 
-| 🏆 Professional Milestone Box |
-| :--- |
-| ✅ **5+ Years** of Core DevOps & Infrastructure Experience |
-| ✅ Designed & Managed Production-Grade **AWS Cloud Environments** |
-| ✅ Spearheaded End-to-End **CI/CD Pipeline Automation** reducing deploy times |
-| ✅ Architected & Scaled **Kubernetes (EKS)** clusters |
-| ✅ Zero-Downtime Infrastructure Migrations using **Terraform** |
-| ✅ Standardized Microservices using Multi-stage **Docker Production Images** |
-| ✅ Promoted Secure-by-Design Implementations using **IAM Best Practices** |
+<br>
 
----
-
-## 💻 Tech Stack & Tooling
-
-<table>
+<!-- =================================================================================== -->
+<!-- TECH STACK SECTION -->
+<!-- =================================================================================== -->
+<details open>
+<summary><b><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1&color=00C6FB&width=250&lines=💻+Tech+Stack"/></b></summary>
+<br>
+<table width="100%">
   <tr>
     <td align="center" width="25%"><b>☁️ Cloud</b></td>
     <td>
@@ -131,11 +159,16 @@
     </td>
   </tr>
 </table>
+</details>
 
----
+<br>
 
-## 🚀 Featured Projects
-
+<!-- =================================================================================== -->
+<!-- FEATURED PROJECTS SECTION -->
+<!-- =================================================================================== -->
+<details open>
+<summary><b><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1&color=005BEA&width=270&lines=🚀+Featured+Projects"/></b></summary>
+<br>
 <table width="100%">
   <tr>
     <th>Project Component</th>
@@ -168,11 +201,16 @@
     <td><code>Docker</code> <code>Containers</code> <code>Optimization</code></td>
   </tr>
 </table>
+</details>
 
----
+<br>
 
-## 📊 GitHub Analytics
-
+<!-- =================================================================================== -->
+<!-- GITHUB METRICS SECTION -->
+<!-- =================================================================================== -->
+<details open>
+<summary><b><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1&color=00C6FB&width=250&lines=📊+GitHub+Analytics"/></b></summary>
+<br>
 <table align="center" width="100%">
   <tr>
     <td width="50%">
@@ -193,7 +231,7 @@
     </td>
   </tr>
 </table>
-
+<br>
 <details>
 <summary>🏆 <b>View My GitHub Trophies</b> (Click to expand)</summary>
 <br/>
@@ -201,20 +239,30 @@
   <img src="https://github-profile-trophy.vercel.app/?username=surajpatl&theme=algolia&column=4&row=2&no-frame=false"/>
 </p>
 </details>
+</details>
 
----
+<br>
 
-## 🐍 Contribution Activity
-
+<!-- =================================================================================== -->
+<!-- CONTRIBUTION ACTIVITY -->
+<!-- =================================================================================== -->
+<details open>
+<summary><b><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1&color=005BEA&width=280&lines=🐍+Contribution+Activity"/></b></summary>
+<br>
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
+</details>
 
----
+<br>
 
-## 📜 Certifications & Growth
-
-<table>
+<!-- =================================================================================== -->
+<!-- CERTIFICATIONS & GROWTH -->
+<!-- =================================================================================== -->
+<details open>
+<summary><b><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1&color=00C6FB&width=300&lines=📜+Certifications+and+Growth"/></b></summary>
+<br>
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h3>🏅 Certified</h3>
@@ -232,16 +280,20 @@
     </td>
   </tr>
 </table>
+</details>
 
----
+<br>
 
-## 💡 DevOps Philosophy
+<!-- =================================================================================== -->
+<!-- PHILOSOPHY & CONNECT -->
+<!-- =================================================================================== -->
+<details open>
+<summary><b><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1&color=005BEA&width=200&lines=💡+DevOps+Philosophy"/></b></summary>
+<br>
+<blockquote> ⚡ <b>"Automate everything. Monitor everything. Improve continuously."</b></blockquote>
+</details>
 
-> ⚡ **"Automate everything. Monitor everything. Improve continuously."**
-
----
-
-## ☕ Let's Connect
+<br>
 
 <p align="center">
 <a href="mailto:surajppatil45@gmail.com">
