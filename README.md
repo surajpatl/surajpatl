@@ -73,107 +73,104 @@
 
 ---
 
-## 💻 Tech Stack
+# 💻 Tech Stack
 
-### ☁️ Cloud
+## ☁️ Cloud
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws" height="60"/><br>AWS
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=azure" height="60"/><br>Azure
+<p>
+  <img src="https://skillicons.dev/icons?i=aws" title="Amazon Web Services (AWS)" height="55"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=azure" title="Microsoft Azure" height="55"/>
 </p>
 
 ---
 
-### ⚙️ DevOps
+## ⚙️ DevOps & Containers
 
-<p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=docker"/>&nbsp;&nbsp;
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=kubernetes"/>&nbsp;&nbsp;
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=terraform"/>&nbsp;&nbsp;
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=ansible"/>&nbsp;&nbsp;
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=jenkins"/>&nbsp;&nbsp;
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=githubactions"/>&nbsp;&nbsp;
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=helm"/>
-</p>
-
-<p align="center">
-Docker &nbsp;&nbsp;&nbsp;&nbsp;
-Kubernetes &nbsp;&nbsp;&nbsp;&nbsp;
-Terraform &nbsp;&nbsp;&nbsp;&nbsp;
-Ansible &nbsp;&nbsp;&nbsp;&nbsp;
-Jenkins &nbsp;&nbsp;&nbsp;&nbsp;
-GitHub Actions &nbsp;&nbsp;&nbsp;&nbsp;
-Helm
+<p>
+  <img src="https://skillicons.dev/icons?i=docker" title="Docker" height="55"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=kubernetes" title="Kubernetes" height="55"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=terraform" title="Terraform" height="55"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=ansible" title="Ansible" height="55"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=jenkins" title="Jenkins" height="55"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=githubactions" title="GitHub Actions" height="55"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=helm" title="Helm" height="55"/>
 </p>
 
 ---
 
-### 💻 Programming
+## 💻 Programming & Scripting
 
-<p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=python"/>&nbsp;&nbsp;
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=bash"/>
-</p>
-
-<p align="center">
-Python &nbsp;&nbsp;&nbsp;&nbsp; Bash
+<p>
+  <img src="https://skillicons.dev/icons?i=python" title="Python" height="55"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=bash" title="Bash" height="55"/>
 </p>
 
 ---
 
-### 🐧 Operating Systems
+## 🐧 Operating Systems
 
-<p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=linux"/>&nbsp;&nbsp;
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=ubuntu"/>&nbsp;&nbsp;
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=redhat"/>
-</p>
-
-<p align="center">
-Linux &nbsp;&nbsp;&nbsp;&nbsp;
-Ubuntu &nbsp;&nbsp;&nbsp;&nbsp;
-Red Hat
+<p>
+  <img src="https://skillicons.dev/icons?i=linux" title="Linux" height="55"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=ubuntu" title="Ubuntu" height="55"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=redhat" title="Red Hat Enterprise Linux" height="55"/>
 </p>
 
 ---
 
-### 📊 Monitoring
+## 🔧 Version Control & IDE
 
-<p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=grafana"/>&nbsp;&nbsp;
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=prometheus"/>&nbsp;&nbsp;
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=elasticsearch"/>
-</p>
-
-<p align="center">
-Grafana &nbsp;&nbsp;&nbsp;&nbsp;
-Prometheus &nbsp;&nbsp;&nbsp;&nbsp;
-Elasticsearch
+<p>
+  <img src="https://skillicons.dev/icons?i=git" title="Git" height="55"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" title="GitHub" height="55"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=gitlab" title="GitLab" height="55"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" title="Visual Studio Code" height="55"/>
 </p>
 
 ---
 
-### 🔧 Tools
+## 📊 Monitoring & Logging
 
-<p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=git"/>&nbsp;&nbsp;
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=github"/>&nbsp;&nbsp;
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=gitlab"/>&nbsp;&nbsp;
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode"/>&nbsp;&nbsp;
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=nginx"/>&nbsp;&nbsp;
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=postman"/>&nbsp;&nbsp;
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=maven"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=grafana" title="Grafana" height="55"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=prometheus" title="Prometheus" height="55"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=elasticsearch" title="Elasticsearch" height="55"/>
 </p>
 
-<p align="center">
-Git &nbsp;&nbsp;&nbsp;&nbsp;
-GitHub &nbsp;&nbsp;&nbsp;&nbsp;
-GitLab &nbsp;&nbsp;&nbsp;&nbsp;
-VS Code &nbsp;&nbsp;&nbsp;&nbsp;
-NGINX &nbsp;&nbsp;&nbsp;&nbsp;
-Postman &nbsp;&nbsp;&nbsp;&nbsp;
-Maven
+---
+
+## 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" height="55"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" height="55"/>
+</p>
+
+---
+
+## 🛠️ DevOps Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nginx" title="NGINX" height="55"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postman" title="Postman" height="55"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=maven" title="Apache Maven" height="55"/>
 </p>
 
 
