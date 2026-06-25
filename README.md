@@ -77,54 +77,105 @@
 
 ## ☁️ Cloud
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws" height="55" hspace="10"/>
-  <img src="https://skillicons.dev/icons?i=gcp" height="55" hspace="10"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=aws" title="Amazon Web Services (AWS)" height="55"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=gcp" title="Google Cloud Platform" height="55"/>
 </p>
 
 ---
 
-## ⚙️ DevOps
+## ⚙️ DevOps & Containers
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker" height="55" hspace="10"/>
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="55" hspace="10"/>
-  <img src="https://skillicons.dev/icons?i=terraform" height="55" hspace="10"/>
-  <img src="https://skillicons.dev/icons?i=ansible" height="55" hspace="10"/>
-  <img src="https://skillicons.dev/icons?i=jenkins" height="55" hspace="10"/>
-  <img src="https://skillicons.dev/icons?i=githubactions" height="55" hspace="10"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=docker" title="Docker" height="55"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=kubernetes" title="Kubernetes" height="55"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=terraform" title="Terraform" height="55"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=ansible" title="Ansible" height="55"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=jenkins" title="Jenkins" height="55"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=githubactions" title="GitHub Actions" height="55"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=helm" title="Helm" height="55"/>
 </p>
 
 ---
 
-## 💻 Programming
+## 💻 Programming & Scripting
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python" height="55" hspace="10"/>
-  <img src="https://skillicons.dev/icons?i=bash" height="55" hspace="10"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=python" title="Python" height="55"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=bash" title="Bash" height="55"/>
 </p>
 
 ---
 
 ## 🐧 Operating Systems
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=linux" height="55" hspace="10"/>
-  <img src="https://skillicons.dev/icons?i=ubuntu" height="55" hspace="10"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=linux" title="Linux" height="55"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=ubuntu" title="Ubuntu" height="55"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=redhat" title="Red Hat Enterprise Linux" height="55"/>
 </p>
 
 ---
 
-## 🔧 Tools & Monitoring
+## 🔧 Version Control & IDE
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git" height="55" hspace="10"/>
-  <img src="https://skillicons.dev/icons?i=github" height="55" hspace="10"/>
-  <img src="https://skillicons.dev/icons?i=vscode" height="55" hspace="10"/>
-  <img src="https://skillicons.dev/icons?i=prometheus" height="55" hspace="10"/>
-  <img src="https://skillicons.dev/icons?i=grafana" height="55" hspace="10"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=git" title="Git" height="55"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" title="GitHub" height="55"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=gitlab" title="GitLab" height="55"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" title="Visual Studio Code" height="55"/>
 </p>
-```
+
+---
+
+## 📊 Monitoring & Logging
+
+<p>
+  <img src="https://skillicons.dev/icons?i=grafana" title="Grafana" height="55"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=prometheus" title="Prometheus" height="55"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=elasticsearch" title="Elasticsearch" height="55"/>
+</p>
+
+---
+
+## 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" height="55"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" height="55"/>
+</p>
+
+---
+
+## 🛠️ DevOps Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nginx" title="NGINX" height="55"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postman" title="Postman" height="55"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=maven" title="Apache Maven" height="55"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=gradle" title="Gradle" height="55"/>
+</p>
+
+
 
 
 # 🚀 Featured Projects
