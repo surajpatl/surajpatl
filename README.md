@@ -16,222 +16,169 @@
 <a href="https://www.linkedin.com/in/suraj-patil-devops">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="mailto:surajppatil45@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 <a href="https://github.com/surajpatl">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 <img src="https://komarev.com/ghpvc/?username=surajpatl&style=for-the-badge&color=blue"/>
-
 <img src="https://img.shields.io/github/followers/surajpatl?style=for-the-badge&logo=github"/>
-
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-<img align="right" width="360" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/>
-
-- 🚀 DevOps Engineer with **5+ Years of Experience**
-- ☁️ AWS Cloud Infrastructure
-- ☸️ Kubernetes (EKS)
-- 🐳 Docker Containerization
-- ⚙️ Terraform & Infrastructure as Code
-- 🔄 Jenkins, GitHub Actions & GitLab CI
-- 📊 Prometheus, Grafana & CloudWatch
-- 🐧 Linux Administration
-- 💻 Bash & Python Automation
-- 📍 Pune, India
-- 🌱 Currently learning Platform Engineering
-
----
-
-# 🏅 Career Highlights
-
-🏆 5+ Years of Professional Experience
-
-☁️ Managed Production AWS Infrastructure
-
-🚀 Built End-to-End CI/CD Pipelines
-
-☸️ Managed Kubernetes (Amazon EKS)
-
-⚙️ Automated Infrastructure using Terraform
-
-🐳 Containerized Applications using Docker
-
-📊 Implemented Monitoring with Prometheus & Grafana
-
-🔒 Implemented IAM & Security Best Practices
-
-💻 Linux & Shell Automation
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <p>DevOps Engineer with <b>5+ Years of Professional Experience</b> specializing in automating, scaling, and optimizing cloud infrastructure.</p>
+      <ul>
+        <li>☁️ <b>Cloud:</b> AWS Infrastructure Architecture</li>
+        <li>☸️ <b>Orchestration:</b> Kubernetes (Amazon EKS) & Docker Containerization</li>
+        <li>⚙️ <b>IaC:</b> Infrastructure as Code via Terraform</li>
+        <li>🔄 <b>CI/CD:</b> Automated Pipelines (Jenkins, GitHub Actions, GitLab CI)</li>
+        <li>📊 <b>Observability:</b> Prometheus, Grafana & CloudWatch</li>
+        <li>🐧 <b>OS:</b> Linux Administration & Bash/Python Automation</li>
+        <li>📍 Based in Pune, India</li>
+        <li>🌱 Currently leveling up in <b>Platform Engineering</b></li>
+      </ul>
+    </td>
+    <td width="40%" valign="top" align="center">
+      <img width="100%" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" style="border-radius: 8px; border: 2px solid #005BEA;"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
-# 💻 Tech Stack
+## 🏅 Career Highlights
 
-## ☁️ Cloud
-
-<p>
-  <img src="https://skillicons.dev/icons?i=aws" title="Amazon Web Services (AWS)" height="55"/>
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=azure" title="Microsoft Azure" height="55"/>
-</p>
-
----
-
-## ⚙️ DevOps & Containers
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker" title="Docker" height="55"/>
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=kubernetes" title="Kubernetes" height="55"/>
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=terraform" title="Terraform" height="55"/>
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=ansible" title="Ansible" height="55"/>
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=jenkins" title="Jenkins" height="55"/>
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=githubactions" title="GitHub Actions" height="55"/>
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=helm" title="Helm" height="55"/>
-</p>
+| 🏆 Professional Milestone Box |
+| :--- |
+| ✅ **5+ Years** of Core DevOps & Infrastructure Experience |
+| ✅ Designed & Managed Production-Grade **AWS Cloud Environments** |
+| ✅ Spearheaded End-to-End **CI/CD Pipeline Automation** reducing deploy times |
+| ✅ Architected & Scaled **Kubernetes (EKS)** clusters |
+| ✅ Zero-Downtime Infrastructure Migrations using **Terraform** |
+| ✅ Standardized Microservices using Multi-stage **Docker Production Images** |
+| ✅ Promoted Secure-by-Design Implementations using **IAM Best Practices** |
 
 ---
 
-## 💻 Programming & Scripting
+## 💻 Tech Stack & Tooling
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python" title="Python" height="55"/>
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=bash" title="Bash" height="55"/>
-</p>
-
----
-
-## 🐧 Operating Systems
-
-<p>
-  <img src="https://skillicons.dev/icons?i=linux" title="Linux" height="55"/>
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=ubuntu" title="Ubuntu" height="55"/>
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=redhat" title="Red Hat Enterprise Linux" height="55"/>
-</p>
-
----
-
-## 🔧 Version Control & IDE
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git" title="Git" height="55"/>
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=github" title="GitHub" height="55"/>
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=gitlab" title="GitLab" height="55"/>
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=vscode" title="Visual Studio Code" height="55"/>
-</p>
-
----
-
-## 📊 Monitoring & Logging
-
-<p>
-  <img src="https://skillicons.dev/icons?i=grafana" title="Grafana" height="55"/>
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=prometheus" title="Prometheus" height="55"/>
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=elasticsearch" title="Elasticsearch" height="55"/>
-</p>
-
----
-
-## 🗄️ Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" height="55"/>
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" height="55"/>
-</p>
-
----
-
-## 🛠️ DevOps Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nginx" title="NGINX" height="55"/>
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=postman" title="Postman" height="55"/>
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=maven" title="Apache Maven" height="55"/>
-</p>
-
-
-
-
-
-# 🚀 Featured Projects
-
-| Project | Description |
-|----------|-------------|
-| ☁️ AWS Infrastructure | Provisioned AWS Infrastructure using Terraform |
-| ☸️ Kubernetes Deployment | Production Deployments on Amazon EKS |
-| 🚀 Jenkins CI/CD | Automated Build, Test & Deployment |
-| 📊 Monitoring Stack | Prometheus + Grafana + AlertManager |
-| 🐳 Docker | Multi-stage Production Docker Images |
+<table>
+  <tr>
+    <td align="center" width="25%"><b>☁️ Cloud</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=aws" title="AWS" height="40"/> &nbsp;
+      <img src="https://skillicons.dev/icons?i=azure" title="Microsoft Azure" height="40"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>⚙️ DevOps & Containers</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=docker" title="Docker" height="40"/> &nbsp;
+      <img src="https://skillicons.dev/icons?i=kubernetes" title="Kubernetes" height="40"/> &nbsp;
+      <img src="https://skillicons.dev/icons?i=terraform" title="Terraform" height="40"/> &nbsp;
+      <img src="https://skillicons.dev/icons?i=ansible" title="Ansible" height="40"/> &nbsp;
+      <img src="https://skillicons.dev/icons?i=jenkins" title="Jenkins" height="40"/> &nbsp;
+      <img src="https://skillicons.dev/icons?i=githubactions" title="GitHub Actions" height="40"/> &nbsp;
+      <img src="https://skillicons.dev/icons?i=helm" title="Helm" height="40"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>💻 Automation</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=python" title="Python" height="40"/> &nbsp;
+      <img src="https://skillicons.dev/icons?i=bash" title="Bash" height="40"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>🐧 Operating Systems</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=linux" title="Linux" height="40"/> &nbsp;
+      <img src="https://skillicons.dev/icons?i=ubuntu" title="Ubuntu" height="40"/> &nbsp;
+      <img src="https://skillicons.dev/icons?i=redhat" title="RHEL" height="40"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>🔧 Git & Platforms</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git" title="Git" height="40"/> &nbsp;
+      <img src="https://skillicons.dev/icons?i=github" title="GitHub" height="40"/> &nbsp;
+      <img src="https://skillicons.dev/icons?i=gitlab" title="GitLab" height="40"/> &nbsp;
+      <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" height="40"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>📊 Monitoring/Logs</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=grafana" title="Grafana" height="40"/> &nbsp;
+      <img src="https://skillicons.dev/icons?i=prometheus" title="Prometheus" height="40"/> &nbsp;
+      <img src="https://skillicons.dev/icons?i=elasticsearch" title="Elasticsearch" height="40"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>🗄️ Databases & Tools</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" height="40"/> &nbsp;
+      <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" height="40"/> &nbsp;
+      <img src="https://skillicons.dev/icons?i=nginx" title="NGINX" height="40"/> &nbsp;
+      <img src="https://skillicons.dev/icons?i=postman" title="Postman" height="40"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
-# 📊 GitHub Stats
+## 🚀 Featured Production Implementations
 
+| Core Focus | Architecture & Execution Summary |
+| :--- | :--- |
+| **☁️ AWS Infrastructure** | Provisioned secure, multi-AZ VPC environments, IAM boundaries, and managed services entirely managed via Modular **Terraform**. |
+| **☸️ Kubernetes Deployments** | Architected highly available **Amazon EKS** compute clusters, implementing auto-scaling strategies and ingress control. |
+| **🚀 CI/CD Orchestration** | Standardized **Jenkins** & **GitHub Actions** workflows to automate application verification, image promotion, and environment syncs. |
+| **📊 Observability Stack** | Deployed cluster-wide metrics collections via **Prometheus** + **Grafana** paired with structured alert definitions. |
+
+---
+
+## 📊 GitHub Analytics
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=surajpatl&show_icons=true&theme=tokyonight&hide_border=false"/>
+    </td>
+    <td width="50%">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajpatl&layout=compact&theme=tokyonight&hide_border=false"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img width="100%" src="https://streak-stats.demolab.com?user=surajpatl&theme=tokyonight&hide_border=false"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=surajpatl&theme=tokyo-night"/>
+    </td>
+  </tr>
+</table>
+
+<details>
+<summary>🏆 <b>View My GitHub Trophies</b> (Click to expand)</summary>
+<br/>
 <p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=surajpatl&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajpatl&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=surajpatl&theme=algolia&column=4&row=2&no-frame=false"/>
 </p>
+</details>
 
 ---
 
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=surajpatl&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=surajpatl&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=surajpatl&theme=algolia&column=4&row=2&no-frame=true"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
+## 🐍 Contribution Activity
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
@@ -239,55 +186,51 @@
 
 ---
 
-# 📜 Certifications
+## 📜 Certifications & Growth
 
-- 🏅 AWS Cloud Practitioner
-- 🎯 Preparing for AWS Solutions Architect Associate
-- 🎯 Preparing for Certified Kubernetes Administrator (CKA)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏅 Certified</h3>
+      <ul>
+        <li>✅ AWS Certified Cloud Practitioner</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📈 Upskilling Focus</h3>
+      <ul>
+        <li>🎯 AWS Solutions Architect Associate</li>
+        <li>🎯 Certified Kubernetes Administrator (CKA)</li>
+        <li>🏗️ Platform Engineering & GitOps (Argo CD)</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-# 📈 Currently Learning
+## 💡 DevOps Philosophy
 
-- ☸️ Advanced Kubernetes
-- 🏗️ Platform Engineering
-- ☁️ AWS Well-Architected Framework
-- 🔐 DevSecOps
-- 🤖 GitOps with Argo CD
+> ⚡ **"Automate everything. Monitor everything. Improve continuously."**
 
 ---
 
-# 💡 DevOps Philosophy
-
-> **"Automate everything. Monitor everything. Improve continuously."**
-
----
-
-# ☕ Let's Connect
+## ☕ Let's Connect
 
 <p align="center">
-
 <a href="mailto:surajppatil45@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 <a href="https://www.linkedin.com/in/suraj-patil-devops">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="https://github.com/surajpatl">
-<img src="https://img.shields.io/badge/Follow-GitHub-black?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/Follow-GitHub-black?style=for-the-badge&logo=github"/>
 </a>
-
 </p>
 
 <p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00C6FB,100:005BEA"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00C6FB,100:005BEA"/>
 </p>
 
-<h3 align="center">
-⭐ Thanks for visiting my profile! ⭐
-</h3>
-```
+<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
