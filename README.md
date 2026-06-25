@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Suraj Patil</h1>
 
 <h3 align="center">
-🚀 DevOps Engineer | AWS | Kubernetes | Terraform | Docker | Linux | CI/CD
+🚀 Senior DevOps Engineer | AWS | Kubernetes | Terraform | Docker | Linux | CI/CD
 </h3>
 
 <p align="center">
@@ -26,14 +26,11 @@
 <img src="https://img.shields.io/github/followers/surajpatl?style=for-the-badge&logo=github"/>
 </p>
 
-<br>
+---
 
-<!-- =================================================================================== -->
-<!-- ABOUT ME SECTION -->
-<!-- =================================================================================== -->
-<details open>
-<summary><b><h3><img src="https://img.shields.io/badge/-%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%20About%20Me-00C6FB?style=flat-square&labelColor=005BEA"/></h3></b></summary>
-<br>
+## 👨‍💻 About Me
+> ### 🌐 Professional Overview
+
 <table width="100%">
   <tr>
     <td width="60%" valign="top">
@@ -50,53 +47,31 @@
       </ul>
     </td>
     <td width="40%" valign="top" align="center">
-      <img width="100%" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" style="border-radius: 8px; border: 2px solid #005BEA;"/>
+      <img width="100%" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" style="border-radius: 8px;"/>
     </td>
   </tr>
 </table>
-</details>
 
-<br>
+---
 
-<!-- =================================================================================== -->
-<!-- CAREER HIGHLIGHTS SECTION -->
-<!-- =================================================================================== -->
-<details open>
-<summary><b><h3><img src="https://img.shields.io/badge/-%F0%9F%8D%85%20Career%20Highlights-005BEA?style=flat-square&labelColor=00C6FB"/></h3></b></summary>
-<br>
+## 🏅 Career Highlights
+> ### 🚀 Key Achievements & Milestones
+
 <table width="100%">
-  <tr>
-    <td>✅ <b>5+ Years</b> of Core DevOps & Infrastructure Experience</td>
-  </tr>
-  <tr>
-    <td>✅ Designed & Managed Production-Grade <b>AWS Cloud Environments</b></td>
-  </tr>
-  <tr>
-    <td>✅ Spearheaded End-to-End <b>CI/CD Pipeline Automation</b> reducing deploy times</td>
-  </tr>
-  <tr>
-    <td>✅ Architected & Scaled <b>Kubernetes (EKS)</b> clusters</td>
-  </tr>
-  <tr>
-    <td>✅ Zero-Downtime Infrastructure Migrations using <b>Terraform</b></td>
-  </tr>
-  <tr>
-    <td>✅ Standardized Microservices using Multi-stage <b>Docker Production Images</b></td>
-  </tr>
-  <tr>
-    <td>✅ Promoted Secure-by-Design Implementations using <b>IAM Best Practices</b></td>
-  </tr>
+  <tr><td>✅ <b>5+ Years</b> of Core DevOps & Infrastructure Experience</td></tr>
+  <tr><td>✅ Designed & Managed Production-Grade <b>AWS Cloud Environments</b></td></tr>
+  <tr><td>✅ Spearheaded End-to-End <b>CI/CD Pipeline Automation</b> reducing deploy times</td></tr>
+  <tr><td>✅ Architected & Scaled <b>Kubernetes (EKS)</b> clusters</td></tr>
+  <tr><td>✅ Zero-Downtime Infrastructure Migrations using <b>Terraform</b></td></tr>
+  <tr><td>✅ Standardized Microservices using Multi-stage <b>Docker Production Images</b></td></tr>
+  <tr><td>✅ Promoted Secure-by-Design Implementations using <b>IAM Best Practices</b></td></tr>
 </table>
-</details>
 
-<br>
+---
 
-<!-- =================================================================================== -->
-<!-- TECH STACK SECTION -->
-<!-- =================================================================================== -->
-<details open>
-<summary><b><h3><img src="https://img.shields.io/badge/-%F0%9F%92%BB%20Tech%20Stack-00C6FB?style=flat-square&labelColor=005BEA"/></h3></b></summary>
-<br>
+## 💻 Tech Stack & Tooling
+> ### 🛠️ Core Capabilities
+
 <table width="100%">
   <tr>
     <td align="center" width="25%"><b>☁️ Cloud</b></td>
@@ -159,16 +134,12 @@
     </td>
   </tr>
 </table>
-</details>
 
-<br>
+---
 
-<!-- =================================================================================== -->
-<!-- FEATURED PROJECTS SECTION -->
-<!-- =================================================================================== -->
-<details open>
-<summary><b><h3><img src="https://img.shields.io/badge/-%F0%9F%9A%80%20Featured%20Projects-005BEA?style=flat-square&labelColor=00C6FB"/></h3></b></summary>
-<br>
+## 🚀 Featured Projects
+> ### 💻 Production Deployments
+
 <table width="100%">
   <tr>
     <th>Project Component</th>
@@ -201,16 +172,12 @@
     <td><code>Docker</code> <code>Containers</code> <code>Optimization</code></td>
   </tr>
 </table>
-</details>
 
-<br>
+---
 
-<!-- =================================================================================== -->
-<!-- GITHUB METRICS SECTION -->
-<!-- =================================================================================== -->
-<details open>
-<summary><b><h3><img src="https://img.shields.io/badge/-%F0%9F%93%8A%20GitHub%20Analytics-00C6FB?style=flat-square&labelColor=005BEA"/></h3></b></summary>
-<br>
+## 📊 GitHub Analytics
+> ### 📈 Activity & Statistics
+
 <table align="center" width="100%">
   <tr>
     <td width="50%">
@@ -231,7 +198,9 @@
     </td>
   </tr>
 </table>
+
 <br>
+
 <details>
 <summary>🏆 <b>View My GitHub Trophies</b> (Click to expand)</summary>
 <br/>
@@ -239,29 +208,22 @@
   <img src="https://github-profile-trophy.vercel.app/?username=surajpatl&theme=algolia&column=4&row=2&no-frame=false"/>
 </p>
 </details>
-</details>
 
-<br>
+---
 
-<!-- =================================================================================== -->
-<!-- CONTRIBUTION ACTIVITY -->
-<!-- =================================================================================== -->
-<details open>
-<summary><b><h3><img src="https://img.shields.io/badge/-%F0%9F%90%8D%20Contribution%20Activity-005BEA?style=flat-square&labelColor=00C6FB"/></h3></b></summary>
-<br>
+## 🐍 Contribution Activity
+> ### 🎮 Commit Ecosystem
+
 <div align="center">
+  <br>
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
-</details>
 
-<br>
+---
 
-<!-- =================================================================================== -->
-<!-- CERTIFICATIONS & GROWTH -->
-<!-- =================================================================================== -->
-<details open>
-<summary><b><h3><img src="https://img.shields.io/badge/-%F0%9F%93%9C%20Certifications%20%26%20Growth-00C6FB?style=flat-square&labelColor=005BEA"/></h3></b></summary>
-<br>
+## 📜 Certifications & Growth
+> ### 🎓 Continual Upskilling
+
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
@@ -280,20 +242,17 @@
     </td>
   </tr>
 </table>
-</details>
 
-<br>
+---
 
-<!-- =================================================================================== -->
-<!-- PHILOSOPHY -->
-<!-- =================================================================================== -->
-<details open>
-<summary><b><h3><img src="https://img.shields.io/badge/-%F0%9F%92%A1%20DevOps%20Philosophy-005BEA?style=flat-square&labelColor=00C6FB"/></h3></b></summary>
-<br>
-<blockquote> ⚡ <b>"Automate everything. Monitor everything. Improve continuously."</b></blockquote>
-</details>
+## 💡 DevOps Philosophy
+> ### ⚡ Guidance Principle
 
-<br>
+<blockquote> <b>"Automate everything. Monitor everything. Improve continuously."</b> </blockquote>
+
+---
+
+## ☕ Let's Connect
 
 <p align="center">
 <a href="mailto:surajppatil45@gmail.com">
