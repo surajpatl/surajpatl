@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00C6FB,100:005BEA&text=Suraj%20Patil&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20DevOps%20Engineer%20|%20AWS%20|%20Kubernetes%20|%20Terraform&descAlignY=60"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00C6FB,100:005BEA&text=Suraj%20Patil&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%20DevOps%20Engineer%20|%20AWS%20|%20Kubernetes%20|%20Terraform&descAlignY=60"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Suraj Patil</h1>
