@@ -5,11 +5,11 @@
 <h1 align="center">Hi 👋, I'm Suraj Patil</h1>
 
 <h3 align="center">
-🚀 Senior DevOps Engineer | AWS | Kubernetes | Terraform | Docker | Linux | CI/CD
+🚀 DevOps Engineer | AWS | Kubernetes | Terraform | Docker | Linux | CI/CD
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F72F&center=true&vCenter=true&width=700&lines=DevOps+Engineer;AWS+Cloud+Specialist;Terraform+%7C+Docker+%7C+Kubernetes;CI%2FCD+Automation;Infrastructure+as+Code;Linux+Administrator;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F72F&center=true&vCenter=true&width=700&lines=DevOps+Engineer;AWS+Cloud;Infrastructure+as+Code+(Terraform);Kubernetes+%7C+EKS+Orchestration;Production+CI%2FCD+Automation;High+Availability+%26+Scalability;Advancing+Platform+Engineering"/>
 </p>
 
 <p align="center">
@@ -42,7 +42,7 @@
         <li>🔄 <b>CI/CD:</b> Automated Pipelines (Jenkins, GitHub Actions, GitLab CI)</li>
         <li>📊 <b>Observability:</b> Prometheus, Grafana & CloudWatch</li>
         <li>🐧 <b>OS:</b> Linux Administration & Bash/Python Automation</li>
-        <li>📍 Based in Pune, India</li>
+        <li>📍 Based in India</li>
         <li>🌱 Currently leveling up in <b>Platform Engineering</b></li>
       </ul>
     </td>
