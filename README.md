@@ -139,16 +139,16 @@
 
 # 🏆 GitHub Trophies
 
-<p align="center">
+<h2 align="center">🏆 GitHub Trophies</h2>
 
-![](https://github-profile-trophy.vercel.app/?username=surajpatl&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=surajpatl&theme=radical&no-frame=true&no-bg=true&margin-w=10" />
 </p>
 
 ---
 
 # 🐍 Contribution Snake
 
-> **Enable GitHub Actions in your profile repository and add the Snake workflow to make this animation work.**
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
