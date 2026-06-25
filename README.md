@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Suraj Patil</h1>
 
 <h3 align="center">
-🚀  DevOps Engineer | AWS | Kubernetes | Terraform | Docker | Linux | CI/CD
+🚀 DevOps Engineer | AWS | Kubernetes | Terraform | Docker | Linux | CI/CD
 </h3>
 
 <p align="center">
@@ -32,7 +32,7 @@
 <!-- ABOUT ME SECTION -->
 <!-- =================================================================================== -->
 <details open>
-<summary><b><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1&color=00C6FB&width=200&lines=👨‍💻+About+Me"/></b></summary>
+<summary><b><h3><img src="https://img.shields.io/badge/-%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%20About%20Me-00C6FB?style=flat-square&labelColor=005BEA"/></h3></b></summary>
 <br>
 <table width="100%">
   <tr>
@@ -62,7 +62,7 @@
 <!-- CAREER HIGHLIGHTS SECTION -->
 <!-- =================================================================================== -->
 <details open>
-<summary><b><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1&color=005BEA&width=250&lines=🏅+Career+Highlights"/></b></summary>
+<summary><b><h3><img src="https://img.shields.io/badge/-%F0%9F%8D%85%20Career%20Highlights-005BEA?style=flat-square&labelColor=00C6FB"/></h3></b></summary>
 <br>
 <table width="100%">
   <tr>
@@ -95,7 +95,7 @@
 <!-- TECH STACK SECTION -->
 <!-- =================================================================================== -->
 <details open>
-<summary><b><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1&color=00C6FB&width=250&lines=💻+Tech+Stack"/></b></summary>
+<summary><b><h3><img src="https://img.shields.io/badge/-%F0%9F%92%BB%20Tech%20Stack-00C6FB?style=flat-square&labelColor=005BEA"/></h3></b></summary>
 <br>
 <table width="100%">
   <tr>
@@ -167,7 +167,7 @@
 <!-- FEATURED PROJECTS SECTION -->
 <!-- =================================================================================== -->
 <details open>
-<summary><b><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1&color=005BEA&width=270&lines=🚀+Featured+Projects"/></b></summary>
+<summary><b><h3><img src="https://img.shields.io/badge/-%F0%9F%9A%80%20Featured%20Projects-005BEA?style=flat-square&labelColor=00C6FB"/></h3></b></summary>
 <br>
 <table width="100%">
   <tr>
@@ -209,7 +209,7 @@
 <!-- GITHUB METRICS SECTION -->
 <!-- =================================================================================== -->
 <details open>
-<summary><b><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1&color=00C6FB&width=250&lines=📊+GitHub+Analytics"/></b></summary>
+<summary><b><h3><img src="https://img.shields.io/badge/-%F0%9F%93%8A%20GitHub%20Analytics-00C6FB?style=flat-square&labelColor=005BEA"/></h3></b></summary>
 <br>
 <table align="center" width="100%">
   <tr>
@@ -247,7 +247,7 @@
 <!-- CONTRIBUTION ACTIVITY -->
 <!-- =================================================================================== -->
 <details open>
-<summary><b><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1&color=005BEA&width=280&lines=🐍+Contribution+Activity"/></b></summary>
+<summary><b><h3><img src="https://img.shields.io/badge/-%F0%9F%90%8D%20Contribution%20Activity-005BEA?style=flat-square&labelColor=00C6FB"/></h3></b></summary>
 <br>
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
@@ -260,7 +260,7 @@
 <!-- CERTIFICATIONS & GROWTH -->
 <!-- =================================================================================== -->
 <details open>
-<summary><b><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1&color=00C6FB&width=300&lines=📜+Certifications+and+Growth"/></b></summary>
+<summary><b><h3><img src="https://img.shields.io/badge/-%F0%9F%93%9C%20Certifications%20%26%20Growth-00C6FB?style=flat-square&labelColor=005BEA"/></h3></b></summary>
 <br>
 <table width="100%">
   <tr>
@@ -285,10 +285,10 @@
 <br>
 
 <!-- =================================================================================== -->
-<!-- PHILOSOPHY & CONNECT -->
+<!-- PHILOSOPHY -->
 <!-- =================================================================================== -->
 <details open>
-<summary><b><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1&color=005BEA&width=200&lines=💡+DevOps+Philosophy"/></b></summary>
+<summary><b><h3><img src="https://img.shields.io/badge/-%F0%9F%92%A1%20DevOps%20Philosophy-005BEA?style=flat-square&labelColor=00C6FB"/></h3></b></summary>
 <br>
 <blockquote> ⚡ <b>"Automate everything. Monitor everything. Improve continuously."</b></blockquote>
 </details>
