@@ -76,67 +76,94 @@
   <tr>
     <td align="center" width="25%"><b>☁️ Cloud</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=aws" title="AWS" height="40"/> &nbsp;
-      <img src="https://skillicons.dev/icons?i=azure" title="Microsoft Azure" height="40"/>
+      <table>
+        <tr>
+          <td><img src="https://skillicons.dev/icons?i=aws" title="AWS" height="42"/></td>
+          <td><img src="https://skillicons.dev/icons?i=azure" title="Microsoft Azure" height="42"/></td>
+        </tr>
+      </table>
     </td>
   </tr>
   <tr>
     <td align="center"><b>⚙️ DevOps & Containers</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=docker" title="Docker" height="40"/> &nbsp;
-      <img src="https://skillicons.dev/icons?i=kubernetes" title="Kubernetes" height="40"/> &nbsp;
-      <img src="https://skillicons.dev/icons?i=terraform" title="Terraform" height="40"/> &nbsp;
-      <img src="https://skillicons.dev/icons?i=ansible" title="Ansible" height="40"/> &nbsp;
-      <img src="https://skillicons.dev/icons?i=jenkins" title="Jenkins" height="40"/> &nbsp;
-      <img src="https://skillicons.dev/icons?i=githubactions" title="GitHub Actions" height="40"/> &nbsp;
-      <img src="https://skillicons.dev/icons?i=helm" title="Helm" height="40"/>
+      <table>
+        <tr>
+          <td><img src="https://skillicons.dev/icons?i=docker" title="Docker" height="42"/></td>
+          <td><img src="https://skillicons.dev/icons?i=kubernetes" title="Kubernetes" height="42"/></td>
+          <td><img src="https://skillicons.dev/icons?i=terraform" title="Terraform" height="42"/></td>
+          <td><img src="https://skillicons.dev/icons?i=ansible" title="Ansible" height="42"/></td>
+          <td><img src="https://skillicons.dev/icons?i=jenkins" title="Jenkins" height="42"/></td>
+          <td><img src="https://skillicons.dev/icons?i=githubactions" title="GitHub Actions" height="42"/></td>
+          <td><img src="https://skillicons.dev/icons?i=helm" title="Helm" height="42"/></td>
+        </tr>
+      </table>
     </td>
   </tr>
   <tr>
     <td align="center"><b>💻 Automation</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=python" title="Python" height="40"/> &nbsp;
-      <img src="https://skillicons.dev/icons?i=bash" title="Bash" height="40"/>
+      <table>
+        <tr>
+          <td><img src="https://skillicons.dev/icons?i=python" title="Python" height="42"/></td>
+          <td><img src="https://skillicons.dev/icons?i=bash" title="Bash" height="42"/></td>
+        </tr>
+      </table>
     </td>
   </tr>
   <tr>
     <td align="center"><b>🐧 Operating Systems</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=linux" title="Linux" height="40"/> &nbsp;
-      <img src="https://skillicons.dev/icons?i=ubuntu" title="Ubuntu" height="40"/> &nbsp;
-      <img src="https://skillicons.dev/icons?i=redhat" title="RHEL" height="40"/>
+      <table>
+        <tr>
+          <td><img src="https://skillicons.dev/icons?i=linux" title="Linux" height="42"/></td>
+          <td><img src="https://skillicons.dev/icons?i=ubuntu" title="Ubuntu" height="42"/></td>
+          <td><img src="https://skillicons.dev/icons?i=redhat" title="RHEL" height="42"/></td>
+        </tr>
+      </table>
     </td>
   </tr>
   <tr>
     <td align="center"><b>🔧 Git & Platforms</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=git" title="Git" height="40"/> &nbsp;
-      <img src="https://skillicons.dev/icons?i=github" title="GitHub" height="40"/> &nbsp;
-      <img src="https://skillicons.dev/icons?i=gitlab" title="GitLab" height="40"/> &nbsp;
-      <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" height="40"/>
+      <table>
+        <tr>
+          <td><img src="https://skillicons.dev/icons?i=git" title="Git" height="42"/></td>
+          <td><img src="https://skillicons.dev/icons?i=github" title="GitHub" height="42"/></td>
+          <td><img src="https://skillicons.dev/icons?i=gitlab" title="GitLab" height="42"/></td>
+          <td><img src="https://skillicons.dev/icons?i=vscode" title="VS Code" height="42"/></td>
+        </tr>
+      </table>
     </td>
   </tr>
   <tr>
     <td align="center"><b>📊 Monitoring/Logs</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=grafana" title="Grafana" height="40"/> &nbsp;
-      <img src="https://skillicons.dev/icons?i=prometheus" title="Prometheus" height="40"/> &nbsp;
-      <img src="https://skillicons.dev/icons?i=elasticsearch" title="Elasticsearch" height="40"/>
+      <table>
+        <tr>
+          <td><img src="https://skillicons.dev/icons?i=grafana" title="Grafana" height="42"/></td>
+          <td><img src="https://skillicons.dev/icons?i=prometheus" title="Prometheus" height="42"/></td>
+          <td><img src="https://skillicons.dev/icons?i=elasticsearch" title="Elasticsearch" height="42"/></td>
+        </tr>
+      </table>
     </td>
   </tr>
   <tr>
     <td align="center"><b>🗄️ Databases & Tools</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" height="40"/> &nbsp;
-      <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" height="40"/> &nbsp;
-      <img src="https://skillicons.dev/icons?i=nginx" title="NGINX" height="40"/> &nbsp;
-      <img src="https://skillicons.dev/icons?i=postman" title="Postman" height="40"/>
+      <table>
+        <tr>
+          <td><img src="https://skillicons.dev/icons?i=mysql" title="MySQL" height="42"/></td>
+          <td><img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" height="42"/></td>
+          <td><img src="https://skillicons.dev/icons?i=nginx" title="NGINX" height="42"/></td>
+          <td><img src="https://skillicons.dev/icons?i=postman" title="Postman" height="42"/></td>
+        </tr>
+      </table>
     </td>
   </tr>
 </table>
 
 ---
-
 ## 🚀 Featured Projects
 > ### 💻 Production Deployments
 
