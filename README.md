@@ -141,8 +141,7 @@
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=surajpatl&theme=algolia&column=4&row=2&no-frame=true"/>
-
+![](https://github-profile-trophy.vercel.app/?username=surajpatl&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 </p>
 
 ---
@@ -151,11 +150,9 @@
 
 > **Enable GitHub Actions in your profile repository and add the Snake workflow to make this animation work.**
 
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/surajpatl/surajpatl/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ---
 
