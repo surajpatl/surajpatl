@@ -73,25 +73,59 @@
 
 ---
 
-# 🚀 Tech Stack
+# 💻 Tech Stack
 
-<p align="center">
+## ☁️ Cloud
 
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,jenkins,github,gitlab,linux,bash,python,prometheus,grafana,nginx,mysql,postgres,mongodb,git,vscode&perline=10"/>
-
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws" height="55" hspace="10"/>
+  <img src="https://skillicons.dev/icons?i=gcp" height="55" hspace="10"/>
 </p>
 
 ---
 
-# ☁️ Cloud & DevOps
+## ⚙️ DevOps
 
-<p align="center">
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=aws,terraform,docker,kubernetes,jenkins,githubactions,prometheus,grafana,linux,bash,python,git"/>
-
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker" height="55" hspace="10"/>
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="55" hspace="10"/>
+  <img src="https://skillicons.dev/icons?i=terraform" height="55" hspace="10"/>
+  <img src="https://skillicons.dev/icons?i=ansible" height="55" hspace="10"/>
+  <img src="https://skillicons.dev/icons?i=jenkins" height="55" hspace="10"/>
+  <img src="https://skillicons.dev/icons?i=githubactions" height="55" hspace="10"/>
 </p>
 
 ---
+
+## 💻 Programming
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" height="55" hspace="10"/>
+  <img src="https://skillicons.dev/icons?i=bash" height="55" hspace="10"/>
+</p>
+
+---
+
+## 🐧 Operating Systems
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux" height="55" hspace="10"/>
+  <img src="https://skillicons.dev/icons?i=ubuntu" height="55" hspace="10"/>
+</p>
+
+---
+
+## 🔧 Tools & Monitoring
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git" height="55" hspace="10"/>
+  <img src="https://skillicons.dev/icons?i=github" height="55" hspace="10"/>
+  <img src="https://skillicons.dev/icons?i=vscode" height="55" hspace="10"/>
+  <img src="https://skillicons.dev/icons?i=prometheus" height="55" hspace="10"/>
+  <img src="https://skillicons.dev/icons?i=grafana" height="55" hspace="10"/>
+</p>
+```
+
 
 # 🚀 Featured Projects
 
@@ -148,8 +182,6 @@
 ---
 
 # 🐍 Contribution Snake
-
-> **Enable GitHub Actions in your profile repository and add the Snake workflow to make this animation work.**
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
