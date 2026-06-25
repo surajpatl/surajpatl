@@ -1,9 +1,3 @@
-```markdown
-<!-- =========================
-      MODERN GITHUB PROFILE
-     Designed for: surajpatl
-========================== -->
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F2027,50:203A43,100:2C5364&text=Suraj%20Patil&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20DevOps%20Engineer%20☁️%20AWS%20|%20Kubernetes%20|%20Terraform%20|%20CI/CD&descAlignY=58"/>
 </p>
